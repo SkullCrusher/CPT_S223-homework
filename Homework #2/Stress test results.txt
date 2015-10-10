@@ -1,0 +1,13 @@
+Results, anything past 10k you should use binary searching.
+
+100k
+(linear) 9.34 seconds
+(binary) 0.14 seconds.
+
+10k
+(linear) 0.89 seconds
+(binary) 0.016 seconds
+
+1k
+(linear) 0.0091 seconds
+(binary) 0.0002 seconds.
