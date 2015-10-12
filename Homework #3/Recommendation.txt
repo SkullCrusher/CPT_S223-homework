@@ -1,22 +1,19 @@
-Based off the data very little is is gained past the 4th teller.
-The best amount of employees would be 4.
-
-
-Output data:
+4 Tellers would be the best amount of tellers.
+the reason is there is very little gained compared to having to pay another teller.
 
 Starting Simulation: Employees: 2
-2 tellers 13981 wait time
+2 tellers 4311 wait time
 Starting Simulation: Employees: 3
-3 tellers 276 wait time
+3 tellers 215 wait time
 Starting Simulation: Employees: 4
-4 tellers 93 wait time
+4 tellers 91 wait time
 Starting Simulation: Employees: 5
-5 tellers 80 wait time
+5 tellers 81 wait time
 Starting Simulation: Employees: 6
-6 tellers 77 wait time
+6 tellers 79 wait time
 Starting Simulation: Employees: 7
-7 tellers 77 wait time
+7 tellers 76 wait time
 Starting Simulation: Employees: 8
-8 tellers 77 wait time
+8 tellers 75 wait time
 Starting Simulation: Employees: 9
-9 tellers 76 wait time
+9 tellers 77 wait time
