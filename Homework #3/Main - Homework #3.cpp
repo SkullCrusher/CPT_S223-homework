@@ -149,7 +149,7 @@ class Simulation{
 
 		Average_Wait_Time_Line = 0;
 		Average_Wait_Time_Total = 0;
-		Time_Left = 100000;
+		Time_Left = 28800; //8 hours
 		Time_Past = 0;
 		Time_Unit = 10;
 
